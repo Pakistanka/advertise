@@ -19,7 +19,7 @@ body {
 .main {
     display: flex;
     padding: 0px 30px;
-    height: calc(100vh - 85px);
+    height: calc(100vh - 90px);
     margin-bottom: 30px;
 }
 
