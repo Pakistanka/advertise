@@ -27,6 +27,9 @@ body {
 .main-right {
     width: 50%;
 }
+.main-right {
+    position:relative;
+}
 
 
 .inner-block {
