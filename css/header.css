@@ -1,0 +1,51 @@
+.header {
+    height: 160px;
+    display: flex;
+    align-items: center;
+
+    margin-bottom: 7%;
+}
+.header__menu {
+    margin-top: -40px;
+}
+
+.header__title {
+    font-family: 'Cochin';
+    font-weight: 300;
+    font-style: normal;
+    color: var(--yellow);
+    text-transform: uppercase;
+    font-size: 4rem;
+    margin-left: 20px;
+}
+
+@media screen and (max-width: 1440px) {
+    .header {
+        height: 120px;
+        display: flex;
+        align-items: center;
+    
+        margin-bottom: 5%;
+    }
+    .header__title {
+        font-family: 'Cochin';
+        font-weight: 300;
+        font-style: normal;
+        color: var(--yellow);
+        text-transform: uppercase;
+        font-size: 2.5rem;
+        margin-left: 20px;
+    }
+}
+@media screen and (min-width: 1441px) and (max-width: 1700px) {
+
+    .header__title {
+        font-family: 'Cochin';
+        font-weight: 300;
+        font-style: normal;
+        color: var(--yellow);
+        text-transform: uppercase;
+        font-size: 3rem;
+        margin-left: 20px;
+    }
+}

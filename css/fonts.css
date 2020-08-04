@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'GothamPro';
+  src: url('../fonts/GothamPro-Black.eot');
+  src: url('../fonts/GothamPro-Black.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/GothamPro-Black.woff2') format('woff2'),
+      url('../fonts/GothamPro-Black.woff') format('woff'),
+      url('../fonts/GothamPro-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GothamPro';
+  src: url('../fonts/GothamPro-Medium.eot');
+  src: url('../fonts/GothamPro-Medium.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/GothamPro-Medium.woff2') format('woff2'),
+      url('../fonts/GothamPro-Medium.woff') format('woff'),
+      url('../fonts/GothamPro-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GothamPro';
+  src: url('../fonts/GothamPro-Light.eot');
+  src: url('../fonts/GothamPro-Light.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/GothamPro-Light.woff2') format('woff2'),
+      url('../fonts/GothamPro-Light.woff') format('woff'),
+      url('../fonts/GothamPro-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Cochin-Bold';
+  src: url('../fonts/Cochin-Bold.eot');
+  src: url('../fonts/Cochin-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Cochin-Bold.ttf') format('truetype'),
+       url('../fonts/Cochin-Bold.woff') format('woff'),
+       url('../fonts/Cochin-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cochin-BoldItalic';
+  src: url('../fonts/Cochin-BoldItalic.eot');
+  src: url('../fonts/Cochin-BoldItalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Cochin-BoldItalic.ttf') format('truetype'),
+       url('../fonts/Cochin-BoldItalic.woff') format('woff'),
+       url('../fonts/Cochin-BoldItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cochin-Italic';
+  src: url('../fonts/Cochin-Italic.eot');
+  src: url('../fonts/Cochin-Italic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Cochin-Italic.ttf') format('truetype'),
+       url('../fonts/Cochin-Italic.woff') format('woff'),
+       url('../fonts/Cochin-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cochin';
+  src: url('../fonts/Cochin.eot');
+  src: url('../fonts/Cochin.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Cochin.ttf') format('truetype'),
+       url('../fonts/Cochin.woff') format('woff'),
+       url('../fonts/Cochin.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
