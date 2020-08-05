@@ -35,6 +35,7 @@
 .questions__list {
     list-style: none;
     padding: 0px;
+    text-align: center;
 }
 .questions__elem {
     color: var(--yellow);
@@ -49,6 +50,7 @@
     color: var(--yellow);
     text-decoration: none;
     position: relative;
+    border: 1px solid transparent;
 }
 
 .questions__links:hover {
