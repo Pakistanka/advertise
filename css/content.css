@@ -71,9 +71,8 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    /* height: 100%; */
     padding: 0px 30px;
-    /* height: 100%; */
+    height: auto;
 }
 
 .content__promo {
@@ -81,7 +80,7 @@
     align-items: flex-start;
     justify-content: space-between;
 
-    margin-bottom: 5%;
+    margin-bottom: 3%;
 }
 
 .content__text{
@@ -109,7 +108,7 @@
 
 .preview__image {
     height: 50%;
-    width: 60%;
+    /* width: 50%; */
 }
 
 @media screen and (max-width: 1440px) {
