@@ -3,10 +3,18 @@
     display: flex;
     align-items: center;
 
-    margin-bottom: 7%;
+    margin-bottom: 5%;
+
+    background-image: url(../img/header.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+
+    padding: 0px 30px;
 }
 .header__menu {
     margin-top: -40px;
+    height: 100%;
 }
 
 .header__title {
@@ -33,7 +41,7 @@
         font-style: normal;
         color: var(--yellow);
         text-transform: uppercase;
-        font-size: 2.5rem;
+        font-size: 2rem;
         margin-left: 20px;
     }
 }
